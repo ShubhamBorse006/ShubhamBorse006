@@ -85,8 +85,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" width="40" title="SAP Commerce Cloud"/>
-<img src="https://avatars.githubusercontent.com/u/1881946?s=200&v=4" width="40" title="SAP Commerce Cloud Portal"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" width="40" title="SAP"/>
+<img src="https://avatars.githubusercontent.com/u/1881946?s=200&v=4" width="40" title="SAP Commerce Cloud"/>
 <img src="https://avatars.githubusercontent.com/u/12898280?s=200&v=4" width="40" title="Amplience CMS"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
@@ -164,21 +164,4 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamBorse006&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamBorse006&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBorse006" />
-</p>
-
----
-
 ⭐️ *Building scalable systems, one pipeline at a time.*
