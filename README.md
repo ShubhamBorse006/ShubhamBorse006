@@ -85,8 +85,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" width="40" title="SAP"/>
-<img src="https://avatars.githubusercontent.com/u/1881946?s=200&v=4" width="40" title="SAP Commerce Cloud"/>
 <img src="https://avatars.githubusercontent.com/u/12898280?s=200&v=4" width="40" title="Amplience CMS"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
