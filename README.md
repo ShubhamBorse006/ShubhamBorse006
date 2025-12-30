@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Borse</h1>
-<h3 align="center">A passionate Software Engineer & DevOps Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Software Engineer & DevOps Enthusiast from India </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ShubhamBorse006&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -14,7 +14,6 @@
 - 💬 Ask me about **DevOps, Hybris Commerce Cloud, Docker, Kubernetes, AWS, Jenkins & CI/CD**
 - 📫 Reach me at **shubhamborse006@gmail.com**
 
----
 
 ## ✍️ Blog Posts
 
@@ -25,7 +24,6 @@
 🔗 Medium: https://medium.com/@shubhamborse006  
 🔗 Hashnode: https://hashnode.com/@shubhamborse-dev  
 
----
 
 ## 🤝 Connect with me
 
@@ -40,8 +38,6 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
 </a>
 </p>
-
----
 
 ## 🛠️ Languages and Tools
 
@@ -111,8 +107,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
----
-
 ## 🎯 Certifications
 
 <p align="left">
@@ -155,5 +149,4 @@
 
 </p>
 
----
 ⭐️ *Building scalable systems, one pipeline at a time.*
